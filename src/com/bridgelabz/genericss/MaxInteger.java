@@ -1,7 +1,7 @@
 package com.bridgelabz.genericss;
 import java.lang.Integer;
 
-public class MaxInteger extends Comparable {
+public class MaxInteger {
 
 
     /*public static float a;
